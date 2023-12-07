@@ -18,25 +18,19 @@ Nuestro proyecto se centra en la implementación de un sensor de temperatura uti
 1. Clone este repositorio: `git clone https://github.com/tuusuario/mi-proyecto.git`
 2. Configuración en AWS:
 
-Configura una instancia de Ubuntu en AWS.
-Instala y configura el servicio Mosquitto para actuar como el broker MQTT.
+  Configura una instancia de Ubuntu en AWS.
+  Instala y configura el servicio Mosquitto para actuar como el broker MQTT.
 
 3. Conexión con la Raspberry Pi Pico W:
 
-Conecta la Raspberry Pi Pico W al sensor de temperatura.
-Actualiza la configuración en la Raspberry Pi Pico W para establecer la conexión con el broker Mosquitto en AWS.
+  Conecta la Raspberry Pi Pico W al sensor de temperatura.
+  Actualiza la configuración en la Raspberry Pi Pico W para establecer la conexión con el broker Mosquitto en AWS.
 
 4. Monitoreo de Temperatura:
 
-Inicia la Raspberry Pi Pico W y observa cómo los datos de temperatura se transmiten de manera efectiva al entorno en AWS.
-## Uso
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et urna ut tortor gravida faucibus. Proin euismod dolor ut augue condimentum, in sodales mauris bibendum.
+  Inicia la Raspberry Pi Pico W y observa cómo los datos de temperatura se transmiten de manera efectiva al entorno en AWS.
 
 ## Contribuciones
 
-¡Las contribuciones son bienvenidas! Si tienes alguna idea genial o encuentras algún problema, no dudes en [abrir un problema](https://github.com/tuusuario/mi-proyecto/issues) o enviar un [pull request](https://github.com/tuusuario/mi-proyecto/pulls).
+¡Las contribuciones son bienvenidas! Si tienes sugerencias para mejorar la funcionalidad, resolver problemas o implementar nuevas características, no dudes en abrir un problema o enviar un pull request en nuestro repositorio.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
