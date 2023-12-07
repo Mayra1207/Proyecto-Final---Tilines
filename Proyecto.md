@@ -30,42 +30,43 @@ Las características de la instancia mostrada son las siguientes:
 
 Instalación de Mosquitto en Linux (Ubuntu)
 Paso 1: Actualización del sistema
-
+```
 sudo apt update 
 
 sudo apt upgrade
+```
 
 Paso 2: Instalación de Mosquitto
-
+```
 sudo apt install mosquitto
-
+```
 Paso 3: Verificación del estado de Mosquitto
-
+```
 sudo systemctl status mosquitto
-
+```
 Uso básico de Mosquitto
 
 Paso 1: Iniciar el servicio de Mosquitto
-
+```
 sudo systemctl start mosquitto
-
+```
 Paso 2: Verificar el estado del servicio
-
+```
 sudo systemctl status mosquitto
-
+```
 Paso 3: Prueba de conexión
 
 Puedes utilizar el comando mosquitto_pub para publicar un mensaje y mosquitto_sub para suscribirte y recibir mensajes en un tópico MQTT.
 
 Ejemplo de publicación:
 
-
+```
 mosquitto_pub -h localhost -t "mi/topico" -m "Hola, Mosquitto!"
-
+```
 Ejemplo de suscripción:
-
+```
 mosquitto_sub -h localhost -t "mi/topico"
-
+```
 Estos comandos son básicos para probar la funcionalidad de Mosquitto. Para aplicaciones más avanzadas, como configurar autenticación, encriptación SSL/TLS u otras opciones de configuración, se requerirán pasos adicionales.
 
 ![image](https://github.com/tectijuana/sp5-iot-ai-los-tiliners-1/assets/80359457/2d24fec8-b7f8-4f0d-9241-e3bf5c4bf4f2)
