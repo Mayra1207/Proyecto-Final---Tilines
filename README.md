@@ -1,4 +1,4 @@
-# Mi Proyecto Increíble
+# Proyecto
 
 Bienvenido a nuestro emocionante proyecto de detección de temperatura, donde utilizamos una Raspberry Pi Pico W conectada a un entorno Ubuntu en AWS para medir y transmitir datos de temperatura en tiempo real. ¡Descubre cómo este sistema eficiente y conectado proporciona información crucial sobre las condiciones térmicas!
 
@@ -12,6 +12,16 @@ Nuestro proyecto se centra en la implementación de un sensor de temperatura uti
 - Conexión Segura en AWS: Los datos de temperatura se transmiten de manera segura a través de AWS, garantizando una conexión estable y protegida.
 
 - Comunicación MQTT con Mosquitto: Utilizamos el protocolo MQTT para la comunicación entre la Raspberry Pi Pico W y el entorno Ubuntu en AWS, aprovechando Mosquitto como el broker MQTT confiable.
+
+## Integrantes
+
+- ALVAREZ LOPEZ ALEX OMAR
+- BAMACA HERNANDEZ MAYRA ITZEL
+- DIAZ GARDUÑO ALAN FERNANDO
+- GUTIERREZ MORA KARIME ISABEL
+- MARDUEÑO ARROYO LUIS ANTONIO
+- MORALES CASTILLO CESAR ANDREE
+- SENCION SALAS JOSE OSCAR
 
 ## Instalación
 
