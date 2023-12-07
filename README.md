@@ -15,7 +15,7 @@ Nuestro proyecto se centra en la implementación de un sensor de temperatura uti
 
 ## Instalación
 
-1. Clone este repositorio: `git clone https://github.com/tuusuario/mi-proyecto.git`
+1. Clone este repositorio: `git clone https://github.com/Mayra1207/Proyecto-Final---Tilines`
 2. Configuración en AWS:
 
   Configura una instancia de Ubuntu en AWS.
